@@ -1,0 +1,19 @@
+﻿CrimeId;OriginalCrimeTypeName;OffenseDate;CallTime;CallDateTime;Disposition;Address;City;State;AgencyId;Range;AddressType
+160903280;Assault / Battery;2016-03-30T00:00:00;18:42;2016-03-30T18:42:00;REP;100 Block Of Chilton Av;San Francisco;CA;1;;Premise Address
+160912272;Homeless Complaint;2016-03-31T00:00:00;15:31;2016-03-31T15:31:00;GOA;2300 Block Of Market St;San Francisco;CA;1;;Premise Address
+160912590;Susp Info;2016-03-31T00:00:00;16:49;2016-03-31T16:49:00;GOA;2300 Block Of Market St;San Francisco;CA;1;;Premise Address
+160912801;Report;2016-03-31T00:00:00;17:38;2016-03-31T17:38:00;GOA;500 Block Of 7th St;San Francisco;CA;1;;Premise Address
+160912811;594;2016-03-31T00:00:00;17:42;2016-03-31T17:42:00;REP;Beale St/bryant St;San Francisco;CA;1;;Intersection
+160913003;Ref'd;2016-03-31T00:00:00;18:29;2016-03-31T18:29:00;GOA;16th St/pond St;San Francisco;CA;1;;Intersection
+160913050;Homeless Complaint;2016-03-31T00:00:00;18:43;2016-03-31T18:43:00;ADV;Berwick Pl/harrison St;San Francisco;CA;1;;Intersection
+160913056;Homeless Complaint;2016-03-31T00:00:00;18:47;2016-03-31T18:47:00;HAN;Florida St/mariposa St;San Francisco;CA;1;;Intersection
+160913078;Agg Assault / Adw Dv;2016-03-31T00:00:00;18:52;2016-03-31T18:52:00;ND;100 Block Of Genebern Wy;San Francisco;CA;1;;Premise Address
+160913103;Encampment;2016-03-31T00:00:00;18:57;2016-03-31T18:57:00;ADV;2700 Block Of Folsom St;San Francisco;CA;1;;Premise Address
+160913118;Burglary;2016-03-31T00:00:00;18:59;2016-03-31T18:59:00;REP;400 Block Of Mission St;San Francisco;CA;1;;Premise Address
+160913148;Suspicious Person;2016-03-31T00:00:00;19:08;2016-03-31T19:08:00;GOA;700 Block Of Eddy St;San Francisco;CA;1;;Premise Address
+160913167;Ip;2016-03-31T00:00:00;19:13;2016-03-31T19:13:00;HAN;1700 Block Of Harrison St;San Francisco;CA;1;;Common Location
+160913193;Homeless Complaint;2016-03-31T00:00:00;19:18;2016-03-31T19:18:00;GOA;1800 Block Of Market St;San Francisco;CA;1;;Premise Address
+160913249;Homeless Complaint;2016-03-31T00:00:00;19:37;2016-03-31T19:37:00;ADV;0 Block Of Elgin Pk;San Francisco;CA;1;;Premise Address
+160913265;Homeless Complaint;2016-03-31T00:00:00;19:40;2016-03-31T19:40:00;HAN;Vine Tr/pine St;San Francisco;CA;1;;Intersection
+160913266;Encampment;2016-03-31T00:00:00;19:41;2016-03-31T19:41:00;HAN;1600 Block Of 15th St;San Francisco;CA;1;;Premise Address
+160913285;Arrest Made;2016-03-31T00:00:00;19:49;2016-03-31T19:49:00;ARR;Jones St/golden Gate Av;San Francisco;CA;1;;Intersection
